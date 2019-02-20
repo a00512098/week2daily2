@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="no_car_selected">24sp</dimen>
+    <dimen name="car_info">20sp</dimen>
+</resources>

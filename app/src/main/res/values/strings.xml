@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week 2 Day 2</string>
+    <string name="no_car_selected">No Car Selected</string>
+    <string name="select_car">Enter Car Information</string>
+</resources>
